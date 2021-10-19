@@ -1,5 +1,5 @@
 {
-  "name": "serverless-http",
+  "name": "@economist/serverless-http",
   "version": "2.7.0",
   "description": "Use existing web application frameworks in serverless environments",
   "main": "serverless-http.js",
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/dougmoscrop/serverless-http"
+    "url": "https://github.com/theeconomist/serverless-http"
   },
   "scripts": {
     "pretest": "tsc --strict --noEmit test/typecheck.ts",
